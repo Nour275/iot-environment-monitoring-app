@@ -70,8 +70,4 @@ The database includes the following main nodes:
 The main purpose of this project is to demonstrate the feasibility of implementing a mobile IoT environmental monitoring system using cloud technologies and virtual IoT nodes without requiring physical sensors.
 The architecture can later be extended using real IoT hardware such as ESP32 and environmental sensors.
 
-
-
-## Author
-
-Developed as a graduation thesis project in the field of Internet of Things (IoT) and mobile application development.
+This App was Developed as a graduation thesis project in the field of Internet of Things (IoT) and mobile application development.
