@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:title="Главная"
+        android:icon="@android:drawable/ic_menu_view"/>
+
+    <item
+        android:id="@+id/nav_data"
+        android:title="Данные"
+        android:icon="@android:drawable/ic_menu_info_details"/>
+
+    <item
+        android:id="@+id/nav_graph"
+        android:title="Графики"
+        android:icon="@android:drawable/ic_menu_sort_by_size"/>
+
+    <!-- 🗺 NEW MAP TAB -->
+    <item
+        android:id="@+id/nav_map"
+        android:title="Карта"
+        android:icon="@android:drawable/ic_dialog_map"/>
+
+    <item
+        android:id="@+id/nav_settings"
+        android:title="Настройки"
+        android:icon="@android:drawable/ic_menu_preferences"/>
+
+</menu>
